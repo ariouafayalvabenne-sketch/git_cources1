@@ -4,5 +4,5 @@ full learn git1
 
 ## projet Notes
 
-**this text is_extremly_important**
+**this text is _extremly_ important**
 _extremly_
